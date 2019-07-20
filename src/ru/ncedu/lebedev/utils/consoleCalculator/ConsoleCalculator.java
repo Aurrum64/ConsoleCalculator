@@ -22,7 +22,7 @@ public class ConsoleCalculator {
 
     public void calcInit() throws FileNotFoundException, InstantiationException, IllegalAccessException {
         addCalcOperations();
-        message("Welcome to console calculator program!\n");
+        message("Welcome to console calculator program! (v1.0)\n");
         message("To see help information, print: \"help\"\n");
         calculator();
     }
