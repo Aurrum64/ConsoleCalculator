@@ -1,0 +1,5 @@
+ru.ncedu.lebedev.utils.consoleCalculator.operations.MinusOperation
+ru.ncedu.lebedev.utils.consoleCalculator.operations.PlusOperation
+ru.ncedu.lebedev.utils.consoleCalculator.operations.MultiplicationOperation
+ru.ncedu.lebedev.utils.consoleCalculator.operations.DivisionOperation
+ru.ncedu.lebedev.utils.consoleCalculator.functions.SqrtFunction
